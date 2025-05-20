@@ -2356,7 +2356,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &208524879715794947
 Transform:
   m_ObjectHideFlags: 0
@@ -9452,7 +9452,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02a0cb731eac1dd47b8c2817b8c966cb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 647064999073985567}
+  animator: {fileID: 2911739508827277447}
   isTarget: 0
 --- !u!136 &754817793820932190
 CapsuleCollider:
@@ -23883,7 +23883,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7175287050424394003
 Transform:
   m_ObjectHideFlags: 0
